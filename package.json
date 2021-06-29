@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Jiaqi Zheng",
-	"description": "do something"
+	"description": "do something",
+	"keywords":["freecodecamp", "solution"]
 }
