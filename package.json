@@ -14,5 +14,6 @@
 	"author": "Jiaqi Zheng",
 	"description": "do something",
 	"keywords": ["freecodecamp", "solution"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
