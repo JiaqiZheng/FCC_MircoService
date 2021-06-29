@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"Jiaqi Zheng"
+	"author": "Jiaqi Zheng",
+	"description": "do something"
 }
